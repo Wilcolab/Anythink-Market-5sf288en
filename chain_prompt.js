@@ -1,0 +1,1 @@
+Write a chain prompt that asks Copilot to create a JavaScript function called `toKebabCase`. Include at least three sequential steps that build on each other, such as validating input, normalizing separators, and lowercasing the result.
